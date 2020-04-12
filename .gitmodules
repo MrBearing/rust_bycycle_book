@@ -4,3 +4,6 @@
 [submodule "ch02/rpn"]
 	path = ch02/rpn
 	url = https://github.com/MrBearing/rpn
+[submodule "samples"]
+	path = samples
+	url = https://github.com/MrBearing/rustbook
