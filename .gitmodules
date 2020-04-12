@@ -1,0 +1,6 @@
+[submodule "ch03/bitonic_sort"]
+	path = ch03/bitonic_sort
+	url = https://github.com/MrBearing/bitonic_sort
+[submodule "ch02/rpn"]
+	path = ch02/rpn
+	url = https://github.com/MrBearing/rpn
