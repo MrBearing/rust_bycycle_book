@@ -7,3 +7,6 @@
 [submodule "samples"]
 	path = samples
 	url = https://github.com/MrBearing/rustbook
+[submodule "ch06/leap-year"]
+	path = ch06/leap-year
+	url = git@github.com:MrBearing/leap-year.git
