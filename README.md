@@ -6,5 +6,5 @@
 - サポートリポジトリ(https://github.com/ghmagazine/rustbook)
 
 # 目標
-・rclrustを使ってROSプログラミングにRustを活用できるようになる
-・socket通信のプログラムを実装して、URSimを動かすライブラリを作る
+- rclrustを使ってROSプログラミングにRustを活用できるようになる
+- socket通信のプログラムを実装して、URSimを動かすライブラリを作る
