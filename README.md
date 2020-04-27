@@ -5,4 +5,5 @@
 - [正誤表 サポートページ](https://gihyo.jp/book/2019/978-4-297-10559-4/support)
 - サポートリポジトリ(https://github.com/ghmagazine/rustbook)
 
-# 
+# 目標
+rclrustを使ってROSプログラミングにRustを活用できるようになる
